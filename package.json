@@ -1,0 +1,14 @@
+{
+  "name": "mojik-next",
+  "version": "0.0.1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  },
+  "devDependencies": {
+    "ava": "^0.22.0"
+  }
+}
